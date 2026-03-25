@@ -28,7 +28,6 @@ Alongside my studies, I work as a **university tutor**, helping L2 students thro
 `C` `C++` `Java` `Python` `PHP` `HTML/CSS` `JavaScript` `Bash` `SQL` `Processing`
 
 ---
----
 
 <div align="center">
 
