@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130" role="img" aria-label="Killian Reine">
+  <style>
+    .title { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: -1px; }
+    .desc { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 15px; font-weight: 500; }
+    .eyebrow { font-family: ui-monospace, 'SFMono-Regular', Menlo, monospace; font-size: 11px; font-weight: 600; letter-spacing: 2.5px; }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #F0F6FC; }
+      .desc { fill: #8B949E; }
+      .eyebrow { fill: #6E7681; }
+      .accent { fill: #E85C4A; }
+    }
+    @media (prefers-color-scheme: light) {
+      .title { fill: #1F2328; }
+      .desc { fill: #57606A; }
+      .eyebrow { fill: #6E7781; }
+      .accent { fill: #C0392B; }
+    }
+  </style>
+  <rect class="accent" x="48" y="28" width="3" height="74"/>
+  <text class="title" x="68" y="58">Killian Reine</text>
+  <text class="desc" x="68" y="88">M1 Informatique · IWOCS · ULHN</text>
+  <text class="eyebrow" x="68" y="108">DÉVELOPPEMENT WEB · ALGORITHMIQUE · TUTORAT</text>
+</svg>
