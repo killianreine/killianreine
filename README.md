@@ -35,7 +35,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/killianreine/killianreine/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/killianreine/killianreine/main/assets/header_end.svg" width="100%" alt="" />
 
 <table width="100%">
 <tr>
