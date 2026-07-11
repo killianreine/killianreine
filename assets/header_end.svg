@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48" role="img" aria-hidden="true">
+  <style>
+    .wave { fill: currentColor; }
+    @media (prefers-color-scheme: dark) {
+      .bg { color: #0d1117; }
+      .accent { fill: #E85C4A; opacity: 0.35; }
+    }
+    @media (prefers-color-scheme: light) {
+      .bg { color: #ffffff; }
+      .accent { fill: #C0392B; opacity: 0.25; }
+    }
+  </style>
+  <path class="bg wave" d="M0,32 C120,8 240,48 400,24 C560,0 680,40 800,20 L800,48 L0,48 Z"/>
+  <path class="accent" d="M0,36 C160,12 320,44 480,28 C640,12 720,36 800,24 L800,48 L0,48 Z"/>
+</svg>
