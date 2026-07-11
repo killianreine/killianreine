@@ -35,7 +35,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=80&section=footer" alt="divider" />
+<img src="https://raw.githubusercontent.com/killianreine/killianreine/main/assets/divider.svg" width="100%" alt="" />
 
 <table width="100%">
 <tr>
