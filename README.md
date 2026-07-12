@@ -106,7 +106,7 @@
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,latex,markdown,react,nextjs,nodejs,laravel,tailwind,git,postgres,bash,linux&perline=9&theme=dark)](https://skillicons.dev/icons)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,latex,markdown,react,nextjs,nodejs,laravel,tailwind,symfony,git,postgres,mysql,bash,debian,linux,windows&perline=9&theme=dark)](https://skillicons.dev/icons)
 
 <br /><br />
 
